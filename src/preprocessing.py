@@ -176,7 +176,7 @@ def prepare_data(df):
             "who",
             "adult_male",
             "embark_town",
-            "alive",
+            "alive"
         ]
     )
 
